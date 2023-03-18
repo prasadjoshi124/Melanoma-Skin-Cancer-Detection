@@ -23,13 +23,9 @@ The data set contains the following diseases:
 
 ![image](https://user-images.githubusercontent.com/67069018/226087831-cebc1d5a-5afc-409e-89fd-09ca9618cff6.png)
 
+### Results 
+
+![image](https://user-images.githubusercontent.com/67069018/226087923-05a5e92c-19c2-491e-9072-ec5e001f7cf3.png)
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [Prasad Joshi] - feel free to contact me!
